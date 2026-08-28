@@ -3,6 +3,6 @@
   "description": "Trạm Phim (tramphim3.org) CloudStream extension — phim vietsub, thuyết minh, phim bộ, phim chiếu rạp",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/kgicao29-ux/TramPhim/builds/plugins.json"
+    "https://raw.githubusercontent.com/kgicao29-ux/TP/builds/plugins.json"
   ]
 }
