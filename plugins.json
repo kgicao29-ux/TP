@@ -1,0 +1,25 @@
+[
+    {
+        "iconUrl": "https://tramphim3.org/favicon.ico",
+        "fileHash": "sha256-635621d65090190667010cb87b14a81aeaf056312c5e40b5cb60e1b80593603a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 50476,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "kgicao29-ux"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "TramPhim",
+        "description": "Tr\u1ea1m Phim (tramphim3.org) \u2014 phim vietsub, thuy\u1ebft minh, phim b\u1ed9, phim chi\u1ebfu r\u1ea1p. Servers: VSmov (direct HLS + subtitles), KKPhim/Nguonc/ViCDN backups.",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/TramPhim.cs3",
+        "name": "TramPhim"
+    }
+]
